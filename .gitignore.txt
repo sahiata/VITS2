@@ -1,0 +1,24 @@
+# Python okruženje
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Checkpoint-i i modeli
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# TensorBoard logovi
+events.out.tfevents*
+
+# Audio i dataset
+*.wav
+*.mp3
+*.flac
+
+# Ostalo
+*.log
+*.zip
+.vscode/

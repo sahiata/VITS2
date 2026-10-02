@@ -1,0 +1,147 @@
+C:\VITS2\dataset\wav\speaker2/a27.wav|2|Potraživanja prema banci, prema meni, prema ulici, prijava, rok blagovremeno obavestiti.
+C:\VITS2\dataset\wav\speaker1/a543.wav|1|Sa stolova smo skidali ploče.
+C:\VITS2\dataset\wav\speaker0/a776.wav|0|Duša mu je po ceo dan treperila.
+C:\VITS2\dataset\wav\speaker0/a935.wav|0|Kako je lepo, misljove, kako je lepo!
+C:\VITS2\dataset\wav\speaker1/a554.wav|1|Niste valjda raskomadali sve naslonjače!
+C:\VITS2\dataset\wav\speaker0/a694.wav|0|Hvala vam na tome!
+C:\VITS2\dataset\wav\speaker0/a448.wav|0|U prvo vreme ja sam često zajmio novac i nisam mnogo birao, uzimao sam gde god sam mogao, ali nema te sile koja me je mogla naterati da uzmem od Luganovića.
+C:\VITS2\dataset\wav\speaker1/a1036.wav|1|Na tu šetnju utrošio je još jedan sat.
+C:\VITS2\dataset\wav\speaker2/a286.wav|2|Zaštita, sudska, prigovor, rad, davaoca, finansijskih usluga.
+C:\VITS2\dataset\wav\speaker2/a157.wav|2|Pri čemu se na dnevnom nivou utvrđuje da li je korisnik koristio sredstva preko rečenja na računu?
+C:\VITS2\dataset\wav\speaker1/a58.wav|1|Tako ga ponekad nazivaju, odvrati on.
+C:\VITS2\dataset\wav\speaker0/a173.wav|0|Napuštati grad, borbu, životnu vrevu,
+C:\VITS2\dataset\wav\speaker2/a5.wav|2|Aplikacija Mup Republika Knez Pošta Poslodavac
+C:\VITS2\dataset\wav\speaker2/a216.wav|2|Usluga PLATA UNAPRED odobrena na dinarskom računu za korisnike pakete računa AIC Advanced, AIC Supreme, ugovaranje usluga iz člana ovog ugovora.
+C:\VITS2\dataset\wav\speaker0/a46.wav|0|Hoće li čuti one čudesno slatke reči i kada nema mene?
+C:\VITS2\dataset\wav\speaker0/a185.wav|0|Ali u svakoj od njih obavezno se pojavljivao ogrozd. On nije mogao da zamisli ni jedno imanje, ni jedan poetičan kutak u kome ne bi bilo ogrozda.
+C:\VITS2\dataset\wav\speaker1/a717.wav|1|A daleki izvor njegovog poraza krije se u pretpostavci da je ministar lud.
+C:\VITS2\dataset\wav\speaker2/a82.wav|2|U kojim valutama mogu da otvorim račun u vašoj banci?
+C:\VITS2\dataset\wav\speaker2/a127.wav|2|Korisnik ima pravo na prigovor u roku od osamnaest meseci od dana saznanja da je učinjena povreda njegovog prava.
+C:\VITS2\dataset\wav\speaker0/a172.wav|0|Ali ti salaši su takođe tri aršina zemlje.
+C:\VITS2\dataset\wav\speaker1/a1018.wav|1|Plašići se da ga ne izgubim iz vida.
+C:\VITS2\dataset\wav\speaker1/a878.wav|1|Atrej, kralj Mikene, po starogričkoj legendi, osvetio se svom bratu Tijestu, koga je mrzeo, na taj način što mu je zaklao sinove i poslužio ga njihovim mesom na gozbi.
+C:\VITS2\dataset\wav\speaker1/a985.wav|1|Kao ona abonosovina s kojom su upoređivali Tertulijanov stil.
+C:\VITS2\dataset\wav\speaker1/a237.wav|1|Moskostremski vrtlog nalazio se pravo pred nama, na oko četvrt milje.
+C:\VITS2\dataset\wav\speaker0/a709.wav|0|Kad se vrati iz crkve, preosvećeni su užurbano pomoli, leže u postelju i dobro se pokri.
+C:\VITS2\dataset\wav\speaker1/a502.wav|1|Pariska policija već je i ranije često radila te stvari.
+C:\VITS2\dataset\wav\speaker0/a193.wav|0|Postao je užasno pohlepan. Bilo mi je žao da ga takvog gledam, pa sam mu i ja ponešto davao, slao sam mu o praznicima, ali on je i to stavljao na stranu.
+C:\VITS2\dataset\wav\speaker2/a18.wav|2|Finansijske usluge, zatezna kamata, pritužba, predlog, podneti Narodnoj banci Srbije.
+C:\VITS2\dataset\wav\speaker0/a19.wav|0|Sviđa joj se sankanje, a dok seda na sanke sva je kao i prvi i drugi put, bleda, jedva diše i sva drhti.
+C:\VITS2\dataset\wav\speaker1/a771.wav|1|On neće moći, razmišljao sam, biti toliko slep, pa ne videti da će i najtananija i najskrivenija skrovišta njegovog dvorca biti isto toliko izložena pogledima, istraživanjima, svrdljima prefektovim, koliko i najobičnija mesta.
+C:\VITS2\dataset\wav\speaker0/a141.wav|0|Burkin i Aljohin su se već obukli i spremahu se do odu, a on još pliva i gnjura.
+C:\VITS2\dataset\wav\speaker2/a123.wav|2|Izjava o administrativnoj zabrani na zaradi overenu od strane poslodavca korisnika iz mesečne zarade korisnika.
+C:\VITS2\dataset\wav\speaker1/a51.wav|1|Nagnut prema horizontu pod uglom od oko četrdeset i pet stepeni, koji se vrtoglavom brzinom kretao sve u okrug, klatići se i uzavirući, i prolamajući vazduh strašnim glasom.
+C:\VITS2\dataset\wav\speaker2/a285.wav|2|Pred sudom, pritužba, organ, podatke, prikupljati, slati, zaključen, reguliše.
+C:\VITS2\dataset\wav\speaker0/a454.wav|0|A kada sam dolazio u grad, svaki put sam iz njenih očiju video da me je čekala.
+C:\VITS2\dataset\wav\speaker0/a164.wav|0|Moj brat je u državnom nadleštvu tugovao.
+C:\VITS2\dataset\wav\speaker0/a319.wav|0|Nađenka me nervozno, tužno, produonim pogledom zagleda, na sva pitanja odgovara smušeno i čeka da počnem.
+C:\VITS2\dataset\wav\speaker2/a62.wav|2|Gde su kancelarije izvršnog odbora ili vašeg direktora, molim vas?
+C:\VITS2\dataset\wav\speaker1/a468.wav|1|I ono što priliči čoveku, kao i ono što mu ne priliči.
+C:\VITS2\dataset\wav\speaker0/a874.wav|0|On zatvori oči i učini mu se da spava.
+C:\VITS2\dataset\wav\speaker1/a414.wav|1|Jer u njemu je bilo nečeg bar upola toliko zabavnog, koliko i prezrenja dostojnog. A nismo ga videli već nekoliko godina.
+C:\VITS2\dataset\wav\speaker1/a1073.wav|1|Kamenje kaldrme ležalo je nasumice, pomereno iz ležišta snagom izđikljalog korova.
+C:\VITS2\dataset\wav\speaker0/a630.wav|0|I preosvećeni se nasmeja. Osam vrsta od lesopolja je selo Obnino sa čudotvornom ikonom. Ikona je iz Obnina u Litiji nošena kroz susedna sela.
+C:\VITS2\dataset\wav\speaker2/a97.wav|2|Personalizovane ponude, prijema ponuda, profilisanje, segmentacija na bazi, automatizovane obrade i druge inovacije.
+C:\VITS2\dataset\wav\speaker1/a418.wav|1|Upravo da zatraži mišljenje mog prijatelja o nekom zvaničnom poslu koji mu je već zadao mnogo muke.
+C:\VITS2\dataset\wav\speaker2/a275.wav|2|Molim vas da potpišete ugovor na ovom mestu.
+C:\VITS2\dataset\wav\speaker1/a514.wav|1|Ali, zar nije mogućno, napomenuh,
+C:\VITS2\dataset\wav\speaker1/a271.wav|1|Čak i po cenu žrtve koju ću prineti.
+C:\VITS2\dataset\wav\speaker0/a469.wav|0|Ili u još monotoniju.
+C:\VITS2\dataset\wav\speaker2/a167.wav|2|Usluga isplate penzije unapred odnosi se na korisnika koji je primalac penzije.
+C:\VITS2\dataset\wav\speaker2/a142.wav|2|NBS, IMBG, Narodna banka Srbije, SMS
+C:\VITS2\dataset\wav\speaker2/a223.wav|2|Informacija o načinu i sredstvima komunikacije za svaku komunikaciju između banke i korisnika,
+C:\VITS2\dataset\wav\speaker0/a537.wav|0|Svetla su utrnula, fitilji nagoreli, sve je već bilo kao u magli.
+C:\VITS2\dataset\wav\speaker2/a116.wav|2|Prestankom primene dozvoljenog prekoračenja, usled čega celokupan istnos iskorišćenih srestava,
+C:\VITS2\dataset\wav\speaker2/a89.wav|2|Minimalno dva dinara, maksimalno tri hiljade dinara.
+C:\VITS2\dataset\wav\speaker1/a956.wav|1|Спућтуюћи се по лествицама оног што се зове отмени свет, наилазио сам на мрачније и дубље предмете за мудровање.
+C:\VITS2\dataset\wav\speaker1/a57.wav|1|Ovo ne može da bude ništa drugo nego veliki malstremski vrtlog.
+C:\VITS2\dataset\wav\speaker1/a719.wav|1|Svi ludaci su pesnici. To prefekt oseća.
+C:\VITS2\dataset\wav\speaker2/a269.wav|2|Potraživanje ugovor korisnika pisanim putem međusobna prava.
+C:\VITS2\dataset\wav\speaker2/a74.wav|2|Iznosi koji morate da platite je dvadeset četiri dinara, pedeset dinara, sedamdeset šest dinara, osamdeset pet dinara.
+C:\VITS2\dataset\wav\speaker2/a311.wav|2|Plata, ulica, predlog, usluga, rad, finansije, posredovanje.
+C:\VITS2\dataset\wav\speaker2/a317.wav|2|Gde mogu dobiti sve potrebne informacije o vašem radu?
+C:\VITS2\dataset\wav\speaker1/a1083.wav|1|Međutim, nije dugo hodao tako kad navala na vrata oglasi zatvaranje gostionice.
+C:\VITS2\dataset\wav\speaker0/a542.wav|0|Pevao je ženski hor,
+C:\VITS2\dataset\wav\speaker1/a890.wav|1|S vremena na vreme, avaj, savest po nekog čoveka ponese teret koji je tako težak po svojoj strahoti da se može spustiti samo u grob.
+C:\VITS2\dataset\wav\speaker1/a614.wav|1|Ali bio je jednom neki bogataš tvrdica koji smisli plan kako da tom abernetiju iskamči lekarsko mišljenje.
+C:\VITS2\dataset\wav\speaker2/a183.wav|2|Pravo na pritužbu i predlog za posredovanje.
+C:\VITS2\dataset\wav\speaker1/a219.wav|1|Ali je Huka, na neki meni nepoznat način, toliko porasla da on nije mogao da čuje ni jednu moju reč, mada sam mu iz svega glasa vikao pravo u uho.
+C:\VITS2\dataset\wav\speaker0/a80.wav|0|Veterinar Ivan Ivanić i profesor gimnazije Burkin, behu već umorni od pešačenja i polje im se činilo beskrajnim.
+C:\VITS2\dataset\wav\speaker2/a217.wav|2|Za obavljanje platnih usluga isprovođenje ostalih usluga koje se ne smatraju platnim uslugama u smislu Zakona o platnim uslugama.
+C:\VITS2\dataset\wav\speaker2/a283.wav|2|Pošaljite račun elektronskim putem na našu e-mail adresu.
+C:\VITS2\dataset\wav\speaker0/a426.wav|0|Svaki put bi kod mene stvarali utisak nečeg novog, neobičnog i važnog u mom životu.
+C:\VITS2\dataset\wav\speaker0/a433.wav|0|Luganovići nisu imali briga, pa se sprijateljili sa mnom.
+C:\VITS2\dataset\wav\speaker2/a242.wav|2|Pritužba ili predlog za posredovanje možete podneti Narodnoj banci Srbije poštom na sledeću adresu.
+C:\VITS2\dataset\wav\speaker2/a132.wav|2|Postupak posredovanja je poverljiv i besplatan.
+C:\VITS2\dataset\wav\speaker1/a117.wav|1|Umesto da teglimo, stavljali smo život na kocku, a hrabrost je zamenjivala kapital.
+C:\VITS2\dataset\wav\speaker0/a38.wav|0|Ali njoj je to izgleda već bilo svejedno. Svejedno iz koje će posude da pije.
+C:\VITS2\dataset\wav\speaker1/a807.wav|1|U toj korpici, koja je imala tri ili četiri pregrade, bilo je pet šest posetnica i jedno usamljeno pismo.
+C:\VITS2\dataset\wav\speaker1/a710.wav|1|I tako njegovo otkrivanje ne zavisi ni pošto od oštru umnosti, već samo od marljivosti, strpljenja i odlučnosti tražilaca.
+C:\VITS2\dataset\wav\speaker2/a270.wav|2|Zahtev u skladu sa važećim propisima banka evidentira promene na računu.
+C:\VITS2\dataset\wav\speaker0/a14.wav|0|Jedna devojka ne odgovara na moja pitanja.
+C:\VITS2\dataset\wav\speaker2/a213.wav|2|Zahtev za otvaranje, zamenu paketa računa i aktivaciju proizvoda i usluga u okviru paketa. Fizička lica, rezidenti.
+C:\VITS2\dataset\wav\speaker2/a274.wav|2|Nadzor nad poslovanjem banke, pritužba, zadovoljan, rok, možda, vidimo se sutra!
+C:\VITS2\dataset\wav\speaker2/a271.wav|2|obaveštenje, informacija, čuvanje, usluga, isplata, zaduženje, digitalna usluga,
+C:\VITS2\dataset\wav\speaker1/a633.wav|1|Otvori ga drhtavom rukom, baci brz pogled na njegovu sadržinu,
+C:\VITS2\dataset\wav\speaker0/a702.wav|0|Čemu to? I nije mogao da je prepozna.
+C:\VITS2\dataset\wav\speaker1/a1035.wav|1|Jednom, okrenuvši se naglim pokretom, umalo me nije otkrio.
+C:\VITS2\dataset\wav\speaker0/a467.wav|0|Drugo bi bilo kad bih ja vodio lep, zanimljiv život, kad bih se recimo borio za slobodu otađbine ili kad bih bio poznati naučnik, glumac, slikar.
+C:\VITS2\dataset\wav\speaker2/a213.wav|2|Zahtev za otvaranje, zamenu paketa računa i aktivaciju proizvoda i usluga u okviru paketa. Fizička lica, rezidenti.
+C:\VITS2\dataset\wav\speaker2/a81.wav|2|Prigovor možete podneti banci u pisanoj formi u daljem tekstu Prigovor putem internet prezentacije banke.
+C:\VITS2\dataset\wav\speaker2/a137.wav|2|Ukoliko je korisnik slepo, slabo vidu lice, sadržina ugovora će biti pročitan u prisustvu pratioca.
+C:\VITS2\dataset\wav\speaker1/a691.wav|1|Ili bolje, usled neodmeravanja razuma sa kojim su se uhvatili u koštac.
+C:\VITS2\dataset\wav\speaker1/a239.wav|1|Da nisam znao gde smo i šta nas čeka, uopšte ga ne bih poznao.
+C:\VITS2\dataset\wav\speaker1/a314.wav|1|U prvom trenutku bio sam i suviše zbunjen da bih išta mogao tačno da zapazim.
+C:\VITS2\dataset\wav\speaker0/a68.wav|0|Sada je nađen kaveć udata.
+C:\VITS2\dataset\wav\speaker1/a1022.wav|1|Išao je sporije i manje odlučno nego ranije.
+C:\VITS2\dataset\wav\speaker2/a15.wav|2|Kreditni biro, web stranica, email adresa,
+C:\VITS2\dataset\wav\speaker2/a247.wav|2|Plaćanje premije životnog osiguranja u Evrimu u okviru AIG bank dvadeset%, minimalno sto šezdeset dinara.
+C:\VITS2\dataset\wav\speaker1/a545.wav|1|Ponekad osoba koja želi da sakrije neki predmet skida ploču sa stola ili nekog slično udešenog komada nameštaja.
+C:\VITS2\dataset\wav\speaker2/a238.wav|2|A korisnik dalje potvrđuje da je pročitao, razumeo i prihvatio obaveštenje o obradi podataka o ličnosti i da je upoznat.
+C:\VITS2\dataset\wav\speaker0/a30.wav|0|Ako danas krenete na sankanje, svratite po mene.
+C:\VITS2\dataset\wav\speaker2/a119.wav|2|U naprednavedenom slučaju, banka će korisniku pre pokretanja izvršnog postupka i bez dodatnih naplata.
+C:\VITS2\dataset\wav\speaker0/a383.wav|0|To je počelo odmah posle suđenja palikućama.
+C:\VITS2\dataset\wav\speaker1/a409.wav|1|Međutim, ja sam u mislima pretresao izvesne stvari koje su nešto ranije tog večera bile predmet razgovora među nama.
+C:\VITS2\dataset\wav\speaker2/a208.wav|2|Saznali smo da imate nedozvoljeno prekoračrenje računa.
+C:\VITS2\dataset\wav\speaker1/a445.wav|1|Pa lepo
+C:\VITS2\dataset\wav\speaker1/a756.wav|1|Mada ne verujemo u paganske basne, mi se stalno zaboravljamo i izvodimo zaključke iz njih kao iz postojećih stvarnosti.
+C:\VITS2\dataset\wav\speaker1/a265.wav|1|Počeo sam razmišljati kako je to veličanstveno umreti na ovakav način.
+C:\VITS2\dataset\wav\speaker2/a178.wav|2|Pritužba ili pregred za posredovanje možete podneti Narodnoj banci Srbije poštom na sledeću adresu.
+C:\VITS2\dataset\wav\speaker2/a258.wav|2|Kartica za podizanje novca na automatima u ulici u zgradi.
+C:\VITS2\dataset\wav\speaker0/a355.wav|0|Dok na selu dušu obično rastirećuju pred svojim gostima.
+C:\VITS2\dataset\wav\speaker0/a924.wav|0|Šta?
+C:\VITS2\dataset\wav\speaker2/a232.wav|2|Banka će prikupljati, na drugi način obrađivati i štititi podatke o ličnosti korisnika u svemu u skladu sa zahtevima regulative.
+C:\VITS2\dataset\wav\speaker0/a742.wav|0|I seti se kako je čeznuo za otačbinom.
+C:\VITS2\dataset\wav\speaker1/a474.wav|1|Adresa je, međutim, bila odozgo.
+C:\VITS2\dataset\wav\speaker0/a616.wav|0|Pošto završi s molitvama, svuče se i leže, no odmah, čim ostade u mraku, dođuše mu u sećanje pokojni otac, majka,
+C:\VITS2\dataset\wav\speaker1/a859.wav|1|Dakle, pošto ne zna da pismo više nije u njegovim rukama, on će nastaviti svoje iznuđivanja kao da jeste.
+C:\VITS2\dataset\wav\speaker0/a254.wav|0|Uveče kad smo pili čaj, kuvarica iznese na sto pun tanjir ogrozda.
+C:\VITS2\dataset\wav\speaker1/a984.wav|1|Sve je bilo crno, a sjajno.
+C:\VITS2\dataset\wav\speaker0/a655.wav|0|Siso je postoja malo izevno.
+C:\VITS2\dataset\wav\speaker1/a564.wav|1|Podelili smo cijelu njenu površinu u odeljke koje smo označili brojevima, kako nam ni jedan ne bi promakao.
+C:\VITS2\dataset\wav\speaker0/a216.wav|0|Razume se, biraj makar i pet godina, opet ćeš na kraju krajeva da pogrešiš i nećeš kupiti ono o čemu si sanjao.
+C:\VITS2\dataset\wav\speaker1/a823.wav|1|Sve to, zajedno sa suviša upadljivim položajem dokumenta, tačno pred očima svakog posetioca, pa tako sasvim u skladu sa zaključcima do kojih sam već prethodno bio došao,
+C:\VITS2\dataset\wav\speaker1/a635.wav|1|Kada je on otišao, moj prijatelj se upusti u izvesno objašnjenje.
+C:\VITS2\dataset\wav\speaker1/a785.wav|1|Nikad na to nisam ni pomislio, rekoh.
+C:\VITS2\dataset\wav\speaker1/a833.wav|1|Poželeo sam ministru svako dobro i odmah otišao, ostavivši zlatnu burmuticu na stolu.
+C:\VITS2\dataset\wav\speaker2/a311.wav|2|Plata, ulica, predlog, usluga, rad, finansije, posredovanje.
+C:\VITS2\dataset\wav\speaker0/a902.wav|0|Kad se služba završi, bilo je četvrt do dvanest. Pošto se vrati kući, preosvećeni se odmah svuči i leže. Čak se nije ni Bogu pomodio.
+C:\VITS2\dataset\wav\speaker1/a491.wav|1|Vi mi laskate, odgovori prefekt.
+C:\VITS2\dataset\wav\speaker2/a252.wav|2|Da li čitate informacije o merama, slučaj, prevara, pretnja, mobilna aplikacija, pravovremeno, korisnik?
+C:\VITS2\dataset\wav\speaker1/a17.wav|1|SEM U NEPOSREDNOJ BLIZINI STENJA
+C:\VITS2\dataset\wav\speaker0/a444.wav|0|I od uzbuđenja bi mu pocrvenele uši. A dešavalo se da mi je, posle istog takvog sašaptavanja kraj prozora, prilazio crvenih ušiju i govorio.
+C:\VITS2\dataset\wav\speaker2/a26.wav|2|Obaveza za promenu ličnih podataka, prijava, regulisan.
+C:\VITS2\dataset\wav\speaker2/a85.wav|2|šezdeset sedam dinara, pedeset osam dinara, devedeset tri dinara, sto hiljada
+C:\VITS2\dataset\wav\speaker0/a831.wav|0|A pred njim, pred sinom je strepela, govorila redko i čak je kako mu se činilo svih ovih dana u njegovom prisustvu uvek tražila neki povod da ustane jer se ustručavala da sedi.
+C:\VITS2\dataset\wav\speaker0/a840.wav|0|Riđa kosa joj se po običaju izdizala iza češljića kao sjaj.
+C:\VITS2\dataset\wav\speaker1/a306.wav|1|Još sam bio živ.
+C:\VITS2\dataset\wav\speaker2/a101.wav|2|Pri čemu će email adresa, odnosno broj mobilnog telefona korisnika koji su registrovani u bazi podataka kod banke?
+C:\VITS2\dataset\wav\speaker2/a160.wav|2|Prigovor iz prethodnog stava podnosi se banci putem aplikacije elektronskog i mobilnog bankarstva.
+C:\VITS2\dataset\wav\speaker1/a425.wav|1|Nadam se da nije opet nešto u vezi sa ubistvima.
+C:\VITS2\dataset\wav\speaker0/a897.wav|0|On osjeti da mu je glas oslabio.
+C:\VITS2\dataset\wav\speaker0/a283.wav|0|I sve je u najboljem redu.
+C:\VITS2\dataset\wav\speaker1/a14.wav|1|Ipak, tu nije bilo ničeg sličnog redovnom gibanju mora, nego samo kratko, brzo, desno, unakrsno uzaviranje vode na sve strane.
+C:\VITS2\dataset\wav\speaker1/a257.wav|1|Desnim bokom bila je okrenuta vrtlogu.
+C:\VITS2\dataset\wav\speaker1/a90.wav|1|I da mora isčeznuti sav i odjednom.
+C:\VITS2\dataset\wav\speaker0/a734.wav|0|Preosvećeni se Seti da brada sedog sisoja odista ima neku zelenkastu nijansu i nasmeja se.
+C:\VITS2\dataset\wav\speaker0/a451.wav|0|I, na drugom stranici, čoveka koji rezonuje tako dosadno razborito, koji se na balovima i večerinkama drži samo solidnih ljudi, tromog, nepotrebnog, pokornog, ravnodušnog izgleda, čoveka koji kao da je tu doveden radi prodaje.
